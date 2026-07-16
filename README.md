@@ -14,7 +14,7 @@ You all are thinking that i write a trash css here to make a simple info page
 
 so you can also read this code and understand how this properties works and elevate your css 😎
 
-                                                                                                   THANKS FOR READING
-                                                                                                      KARAN RAGHAV
+                                                                                      THANKS FOR READING
+                                                                                          KARAN RAGHAV
 
 

@@ -4,8 +4,8 @@ You all are thinking that i write a trash css here to make a simple info page
 
 #The story is differnt here:
 
-*This code is belongs to my practice notes
-*I just want to implement this on screen here
+* This code is belongs to my practice notes
+* I just want to implement this on screen here
 
 #Practicing properties like: 
 
